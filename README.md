@@ -1,2 +1,2 @@
 # Omnifood
-Premium food delivery service
+Premium Food Delivery Service
